@@ -1,2 +1,4 @@
 Segment Tree
 Fenwick Tree
+Digit DP
+Binary Lifting
